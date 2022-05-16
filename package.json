@@ -1,0 +1,23 @@
+{
+  "name": "dummy_server",
+  "version": "1.0.0",
+  "description": "Mock Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckontosis/dummy_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckontosis/dummy_server/issues"
+  },
+  "homepage": "https://github.com/ckontosis/dummy_server#readme",
+  "dependencies": {
+    "fastify": "^3.29.0"
+  }
+}
